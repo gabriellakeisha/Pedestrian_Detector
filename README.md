@@ -86,11 +86,3 @@ iouThresh = 0.20
 ```
 
 These values are used in our final detector scripts and are suggested as default values for anyone running the system. 
-
-### Aditional Notes 
-
-All scripts have already been executed, and all resulting `.mat` feature files have been included in the GitLab respository. 
-
-This means you do NOT need to run the feature extractor scripts again in order to run our, training, testing or detector code. 
-
-Full justification and experimental analysis for these parameters choices can be found in the final report. 
