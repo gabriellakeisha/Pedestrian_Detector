@@ -1,6 +1,4 @@
-# VAML Coursework Group 29 #
-
-**Members involved: Gabriella Keisha Andini(40392749), Su Thinzar Thaw(40392455), Yu-Zhi Wong(40374472)**
+# VAML Coursework #
 
 ## Overview
 
